@@ -1,0 +1,30 @@
+export const members = [
+  {
+    name: "Bradley Remorie",
+    role: "vocals and bass",
+    image_01: "/images/bradley_01.png",
+    quote: "“If you flip a fish it will still see both sides, from the dirty floors to the high reaching skies.”",
+    bio: "Bradley Remorie (°10/07/2001) is the bass player, lead singer and main songwriter of The Black Gasolines, and also an art student at the Examination Committee in Brussels. He taught himself to play the mouth organ and guitar at the age of 15 by starting to learn the classic repertoire of Elvis Presley, The Beatles, Ray Charles and Led Zeppelin. He joined the band in the summer of 2016 as the rhythm guitarist, but soon after he picked up a Höfner club bass to fullfile the band from the melodic bass notes. Shortly after the first rehearsals Bradley started writing a bunch of songs that appeared quickly on the early setlist. Around 2017, his interest got caught by the rebellity of The Libertines and Babyshambles lead vocalist Pete Doherty. Which improved his songwriting abilities and introduced him into the world of fashion. Now his main interests are starting from divergent classical music like Erik Satie, Chopin and Giuseppe Verdi to 70’s rock like David Bowie, Queen, Supertramp or Electric Light Orchestra. Bradley has a wide collection of earlier student jobs like bar waiter, baker’s servant, shop assistant and guitar cleaner in a local music shop. In early 2018 he started working as a gamemaster at Lockdown Escape Rooms as a student worker, which he’s doing to this day. He’s combining this with his passion for music and The Black Gasolines."
+  },
+  {
+    name: "Lukas Debeerst",
+    role: "Guitar",
+    image_01: "/images/lukas_01.png",
+    quote: "“Passion gives you the drive to do anything”",
+    bio: "Lukas Debeerst (°20/02/2000) is the guitarist and co-founder of The Black Gasolines. While he was studying Electronics in 2016, he searched for bandmates to start a new project. At that time he was also finishing his degree as jazz guitarist in the conservatoire of Kortrijk, Belgium. Lukas has always been driven by passion and the will to succeed. With inspiration from Pink Floyd and The War On Drugs he wanted to start a band of which he could make his life work and that he would be proud of. In 2018, he started studying Digital Design and Development at The School Of Arts Ghent which helped the band to evolve digitally. In this period, he dedicated most of his free time to work on the band and helped in projects like tours, videos and albums."
+  },
+  {
+    name: "Justin Bruggeman",
+    role: "drummer",
+    image_01: "/images/justin_01.png",
+    quote: "“Only what dreamers make lives on.”",
+    bio: "Justin Bruggeman (°09/04/1999) is the drummer and percussionist of The Black Gasolines. Having a history as a scouting member for ten years and of which two years as a scouting leader. Because of joining the band at the end of 2018, he decided to stop his role as a leader and dedicated his time to the band. In the meantime, he was studying for his three year bachelor in wood technology in Ghent. Justin started taking music theory and drum lessons at the local music academy at nine years old, being inspired by bands like ‘Steak Number Eight’, The National and Yevgueni. He quickly realized he had found his passion in music. At the age of 14, Justin and his brother Julien created their first band, called ‘Monkey Brain.’ Joined by their two friends, Ansel and Jeremy they became a post-rock group that eventually changed their name to ‘Capital Punishment. After the breakup of Capital Punishment, Justin started drummer in the local band ‘Fat Max’ for the next two years. Justin also has a passion for the art of writing. While working on his debut poetry book, he finds the rest and comfort he needs in life. This makes him put his inspiration of writing in the band and vice versa."
+  },
+  {
+    name: "Matthias Depraetere",
+    role: "Keyboard and guitar",
+    image_01: "/images/matthias_01.png",
+    quote: "“The world changes when music starts to play.”",
+    bio: "Matthias Depraetere (°07/03/1999) is a communication student and the main pianist of The Black Gasolines since May 2021. He’s been a music freak for as long as he can remember and started eventually playing guitar at the age of 8. Quickly started playing more cover pop and rock songs, he taught himself to play the guitar and started singing as well. Obviously by that point, the love for music was already there, but everything became even more intense after seeing the Coldplay concert film of their live tour in 2012. He started adoring this kind of live shows and live music in general, which was later even more pushed by the discovery of Mumford & Sons. With all that and coming to an age of starting to go to actual live shows, the passion for live music – and with that, the desire to play his own live shows – only grew. Influenced by lots of friends and family, he came to be a big fan of the classic rock records of the ‘good old days’. From The Beatles to Dire Straits, Queen and great guitar players like Jimi Hendrix. During his teenage years, Matthias formed a cover band called Alive with some high school friends, where he became the singer and guitar/piano player. This small band went on and (and is still going strong) for many years and Matthias played lots of local shows and small events with this band, where people could sing along and dance to some songs. Still, he was looking for something bigger. Alive has always been great, but the desire to make his own music and let the world listen to that, was getting bigger every day. This is when Matthias found an ad for The Black Gasolines, where it said they were looking for a piano player to make the band complete and help finish the album. This was his chance to be part of something bigger and he took it. Ever since that moment, Matthias has been part of the band (with a small break when he went to Prague for some months for his studies) and he’s now ready to conquer the world with TBG and put his own influence even more in the upcoming songs and albums."
+  },
+]
